@@ -39,5 +39,5 @@ Source Systems
 
 
 ## 🤝 About me
-- I am a Vivaswan and learning the Data engineering concepts to for better understanding and building projects.
+- I am  Vivaswan Prakash learning the Data engineering concepts for better understanding and building projects.
 
